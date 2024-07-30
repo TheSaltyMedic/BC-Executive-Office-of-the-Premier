@@ -1,4 +1,4 @@
-```<p align="center">
+<p align="center">
 <img width="200" height="200" src="https://cdn.discordapp.com/icons/1263208164539764766/aac6802a3bb29043fe89e01428d3138d.png?size=4096">
 </p>
 
@@ -14,4 +14,3 @@ We are not associated with the real life entity. This is merely a ROBLOX game no
 ----
 
 This Registry is maintained by the Executive Office of the Premier, in collaboration with the Premier and Lieutenant Govenor.
-```
